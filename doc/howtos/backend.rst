@@ -701,7 +701,7 @@ instead of a single view its ``arch`` field is composed of any number of
            new field.
 
        #. Create a file ``openacademy/models/partner.py`` and import it in
-          ``__init__.py``
+          ``models/__init__.py``
        #. Create a file ``openacademy/views/partner.xml`` and add it to
           ``__manifest__.py``
 
